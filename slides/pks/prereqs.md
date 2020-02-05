@@ -85,7 +85,7 @@ class: in-person
 
 - A large Pivotal Container Service (PKS) cluster deployed to Google Cloud.
 
-- It remain up for the duration of the workshop
+- It will remain up for the duration of the workshop
 
 - You should have a little card with login+password+URL
 
